@@ -1,6 +1,8 @@
 Recomendado
 
 Ubuntu 18
+
+
 ![image](https://user-images.githubusercontent.com/93544260/156608107-1ebd49e0-fd29-46b1-aa90-4c63f526b316.png)
 
 
